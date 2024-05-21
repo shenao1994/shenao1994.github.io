@@ -1,13 +1,13 @@
 # Site settings
-title: SA Blog
-SEOTitle: 沈傲的博客 | SA Blog
+title: Ao Blog
+SEOTitle: 沈傲的博客 | Ao Blog
 header-img: img/post-bg-desk.jpg
 email: 220220030001@hhu.edu.cn
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "Ao, Ao Blog, 沈傲的博客, Computer Science, Medical image analysis"
+url: "http://shenao1994.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/shenao1994" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
