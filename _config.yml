@@ -3,7 +3,7 @@ title: Ao's Blog
 SEOTitle: 沈傲的博客 | Ao Blog
 header-img: img/post-bg-desk.jpg
 email: 220220030001@hhu.edu.cn
-description: "Every failure is leading towards success."
+description: "Viva La Vida."
 keyword: "Ao, Ao Blog, 沈傲的博客, Computer Science, Medical image analysis"
 url: "http://shenao1994.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/shenao1994" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Viva La Vida!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
