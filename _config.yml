@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 220220030001@hhu.edu.cn
 description: "Viva La Vida."
 keyword: "Ao, Ao Blog, 沈傲的博客, Computer Science, Medical image analysis"
-url: "http://shenao1994.github.io"          # your host, for absolute URL
+url: "https://shenao1994.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/shenao1994" # you code repository
 
