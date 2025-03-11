@@ -29,39 +29,22 @@ Conferance name and year
 Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus.
 
 ## Abstract
-
 Computed Tomography (CT)/X-ray registration in image-guided navigation remains challenging because of its stringent requirements for high accuracy and real-time performance. Traditional "render and compare" methods, relying on iterative projection and comparison, suffer from spatial information loss and domain gap. 3D reconstruction from biplanar X-rays supplements spatial and shape information for 2D/3D registration, but current methods are limited by dense-view requirements and struggles with noisy X-rays. To address these limitations, we introduce RadGS-Reg, a novel framework for vertebral-level CT/X-ray registration through joint 3D Radiative Gaussians (RadGS) reconstruction and 3D/3D registration. Specifically, our biplanar X-rays vertebral RadGS reconstruction module explores learning-based RadGS reconstruction method with a Counterfactual Attention Learning (CAL) mechanism, focusing on vertebral regions in noisy X-rays. Additionally, a patient-specific pre-training strategy progressively adapts the RadGS-Reg from simulated to real data while simultaneously learning vertebral shape prior knowledge. Experiments on in-house datasets demonstrate the state-of-the-art performance for both tasks, surpassing existing methods.
-## Image Carousel
 
-<div id="results-carousel" class="carousel results-carousel">
-  <div class="item">
-    <img src="img/miccai25/pipeline.jpg" alt="MY ALT TEXT"/>
-    <h2 class="subtitle has-text-centered">First image description.</h2>
-  </div>
+<div style="text-align: center;">
+  <h1>Pipeline</h1>
+  <img src="https://s1.imagehub.cc/images/2025/03/11/06dd85a04104a1797cf41d8126edb421.jpg" alt="Pipeline 图片" style="max-width: 100%;">
+</div>
 
-[//]: # (  <div class="item">)
+## Qualitative Results
+<div style="text-align: center;">
+  <h1>Reconstruction Results</h1>
+  <img src="https://s1.imagehub.cc/images/2025/03/11/06dd85a04104a1797cf41d8126edb421.jpg" alt="Pipeline 图片" style="max-width: 100%;">
+</div>
 
-[//]: # (    <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>)
-
-[//]: # (    <h2 class="subtitle has-text-centered">Second image description.</h2>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="item">)
-
-[//]: # (    <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>)
-
-[//]: # (    <h2 class="subtitle has-text-centered">Third image description.</h2>)
-
-[//]: # (  </div>)
-
-[//]: # (  <div class="item">)
-
-[//]: # (    <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>)
-
-[//]: # (    <h2 class="subtitle has-text-centered">Fourth image description.</h2>)
-
-[//]: # (  </div>)
+<div style="text-align: center;">
+  <h1>Registration Results</h1>
+  <img src="https://s1.imagehub.cc/images/2025/03/11/c2a55a0939ac16c6b348656463cbf5a9.jpg" alt="Pipeline 图片" style="max-width: 100%;">
 </div>
 
 ## Video Presentation
@@ -89,8 +72,5 @@ Computed Tomography (CT)/X-ray registration in image-guided navigation remains c
     </video>
   </div>
 </div>
-
-[//]: # (## Poster)
-[//]: # (<iframe src="static/pdfs/sample.pdf" width="100%" height="550"></iframe>)
 
 ## BibTeX
