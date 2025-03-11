@@ -79,8 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellu
   </div>
 </div>
 
-## Poster
-
-<iframe src="static/pdfs/sample.pdf" width="100%" height="550"></iframe>
+[//]: # (## Poster)
+[//]: # (<iframe src="static/pdfs/sample.pdf" width="100%" height="550"></iframe>)
 
 ## BibTeX
