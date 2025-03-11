@@ -44,12 +44,12 @@ Computed Tomography (CT)/X-ray registration in image-guided navigation remains c
 <div id="results-carousel" class="carousel results-carousel">
   <div class="item item-video1">
     <video poster="" id="video1" autoplay controls muted loop height="100%">
-      <source src="https://youtu.be/n7KnpsTE-O8" type="video/mp4">
+      <source src="https://www.youtube.com/embed/n7KnpsTE-O8?si=UhjR7MNlQlNDETeq" type="video/mp4">
     </video>
   </div>
   <div class="item item-video2">
     <video poster="" id="video2" autoplay controls muted loop height="100%">
-      <source src="https://youtu.be/FSR02_ahQvI" type="video/mp4">
+      <source src="https://www.youtube.com/embed/FSR02_ahQvI?si=7CUUmhc6YMrVWbAm" type="video/mp4">
     </video>
   </div>
 </div>
