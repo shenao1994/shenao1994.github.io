@@ -39,12 +39,12 @@ Computed Tomography (CT)/X-ray registration in image-guided navigation remains c
 ## Qualitative Results
 <div style="text-align: center;">
   <h1>Reconstruction Results</h1>
-  <img src="https://s1.imagehub.cc/images/2025/03/11/06dd85a04104a1797cf41d8126edb421.jpg" alt="Pipeline 图片" style="max-width: 100%;">
+  <img src="https://s1.imagehub.cc/images/2025/03/11/c2a55a0939ac16c6b348656463cbf5a9.jpg" alt="Pipeline 图片" style="max-width: 100%;">
 </div>
 
 <div style="text-align: center;">
   <h1>Registration Results</h1>
-  <img src="https://s1.imagehub.cc/images/2025/03/11/c2a55a0939ac16c6b348656463cbf5a9.jpg" alt="Pipeline 图片" style="max-width: 100%;">
+  <img src="https://s1.imagehub.cc/images/2025/03/11/64e7028f99dae04b3f8204c1a5eafe2c.jpg" alt="Pipeline 图片" style="max-width: 100%;">
 </div>
 
 ## Video Presentation
