@@ -20,14 +20,6 @@ Conferance name and year
 
 [Paper](https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf) [Supplementary](static/pdfs/supplementary_material.pdf) [Code](https://github.com/YOUR REPO HERE) [arXiv](https://arxiv.org/abs/<ARXIV PAPER ID>)
 
-## Teaser
-
-<video poster="" id="tree" autoplay controls muted loop height="100%">
-  <source src="static/videos/banner_video.mp4" type="video/mp4">
-</video>
-
-Aliquam vitae elit ullamcorper tellus egestas pellentesque. Ut lacus tellus, maximus vel lectus at, placerat pretium mi. Maecenas dignissim tincidunt vestibulum. Sed consequat hendrerit nisl ut maximus.
-
 ## Abstract
 Computed Tomography (CT)/X-ray registration in image-guided navigation remains challenging because of its stringent requirements for high accuracy and real-time performance. Traditional "render and compare" methods, relying on iterative projection and comparison, suffer from spatial information loss and domain gap. 3D reconstruction from biplanar X-rays supplements spatial and shape information for 2D/3D registration, but current methods are limited by dense-view requirements and struggles with noisy X-rays. To address these limitations, we introduce RadGS-Reg, a novel framework for vertebral-level CT/X-ray registration through joint 3D Radiative Gaussians (RadGS) reconstruction and 3D/3D registration. Specifically, our biplanar X-rays vertebral RadGS reconstruction module explores learning-based RadGS reconstruction method with a Counterfactual Attention Learning (CAL) mechanism, focusing on vertebral regions in noisy X-rays. Additionally, a patient-specific pre-training strategy progressively adapts the RadGS-Reg from simulated to real data while simultaneously learning vertebral shape prior knowledge. Experiments on in-house datasets demonstrate the state-of-the-art performance for both tasks, surpassing existing methods.
 
