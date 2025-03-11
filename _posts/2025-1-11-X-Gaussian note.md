@@ -35,7 +35,6 @@ scene_info = SceneInfo(point_cloud=pcd,
                        ply_path=ply_path)
 ```
 
-
 ### Reference
 
 - [X_Gausssian](https://github.com/caiyuanhao1998/X-Gaussian)
